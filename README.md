@@ -1,7 +1,7 @@
 # 👋 I'm Mazzi | Senior AI Systems Architect & FinTech Engineer
 
 > **Bridging High-Fidelity Infrastructure with Autonomous AI Intelligence.**
-> Specializing in ISO 20022 Compliance, RWA Tokenization, and Edge-optimized SaaS.
+>"Architecting autonomous, cryptographically-verifiable infrastructure. Specializing in ISO 20022, RWA Tokenization, and Agentic Security (Vanguard Protocol)."
 
 
 
